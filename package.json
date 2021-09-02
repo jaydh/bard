@@ -13,7 +13,7 @@
     "@types/react-loadable": "^5.4.3",
     "date-fns": "^1.30.1",
     "fuse.js": "^3.3.0",
-    "immer": "^1.12.1",
+    "immer": "^9.0.6",
     "iso8601-duration": "^1.1.7",
     "mdi-material-ui": "^5.8.0",
     "notistack": "^0.4.1",
